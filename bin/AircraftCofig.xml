@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AircraftConfig>
+    <aircrafts>
+        <aircraft>
+            <acType>737</acType>
+            <acv>123</acv>
+            <iataCode>WN</iataCode>
+            <seats>182</seats>
+        </aircraft>
+        <aircraft>
+            <acType>73G</acType>
+            <acv>345</acv>
+            <iataCode>WN</iataCode>
+            <seats>171</seats>
+        </aircraft>
+    </aircrafts>
+</AircraftConfig>
